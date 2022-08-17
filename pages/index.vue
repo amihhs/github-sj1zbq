@@ -3,5 +3,6 @@
     <div>one</div>
     <!-- this comment is ok -->
     <div>two</div>
+    <div>two</div>
   </div>
 </template>
